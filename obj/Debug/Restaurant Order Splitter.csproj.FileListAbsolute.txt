@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Restaurant Order Splitter\bin\Debug\Restaurant Order Splitter.exe.config
+C:\Users\HP\source\repos\Restaurant Order Splitter\bin\Debug\Restaurant Order Splitter.exe
+C:\Users\HP\source\repos\Restaurant Order Splitter\bin\Debug\Restaurant Order Splitter.pdb
+C:\Users\HP\source\repos\Restaurant Order Splitter\obj\Debug\Restaurant Order Splitter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Restaurant Order Splitter\obj\Debug\Restaurant Order Splitter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Restaurant Order Splitter\obj\Debug\Restaurant Order Splitter.exe
+C:\Users\HP\source\repos\Restaurant Order Splitter\obj\Debug\Restaurant Order Splitter.pdb
